@@ -1,6 +1,6 @@
 # Flask Enviorment with Docker 
 
-Choose an empty folder and execute this command below to clone this repository:
+Choose an empty folder and execute this command below, to clone this repository:
 ```
 git clone https://github.com/Audrey-Teles/Flask-Enviorment-Docker.git .
 ```
