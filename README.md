@@ -10,4 +10,4 @@ Run this command in the same directory to create a Docker container and start it
 docker-compose up
 ```
 
-If it works, you can see your ```localhost:5000``` as in ```https://flask101.duckdns.org/```. 
+If it works, you will see your content of ```localhost:5000``` like mine in the ```https://flask101.duckdns.org/```. 
