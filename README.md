@@ -1,4 +1,4 @@
-# Flask Enviorment with Docker 
+# Flask Environment with Docker 
 
 Choose an empty folder and execute this command below to clone this repository:
 ```
